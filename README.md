@@ -1,3 +1,7 @@
+# updated to python3
+
+Original text below.
+
 # xenmigrate.py
 
 This file is used to convert between XenServer .xva files and opensource Xen .img files. The old script (graciously by Jolokia Networks)
